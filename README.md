@@ -26,3 +26,7 @@
 
 <img width="520" alt="Captura de pantalla 2025-03-17 182047" src="https://github.com/user-attachments/assets/1dc63b24-230a-4929-875e-2aca47c0d5c7" />
 
+## Haz tu propio juego
+- Descarga este repositorio: https://github.com/reymonlpz/SORTEO-AMIGO-SECRETO-
+- Descarga VSCode Studio y corre el archivo HTML con live preview (External browser). para visualizar los cambios en vivo.
+<img width="469" alt="Captura de pantalla 2025-03-18 005105" src="https://github.com/user-attachments/assets/dd409252-d713-4a02-95d1-5c1e549723e4" />
